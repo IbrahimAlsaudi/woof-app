@@ -26,7 +26,7 @@ To get started with Woof, follow these steps:
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/your_username/woof.git
+   git clone https://github.com/IbrahimAlsaudi/woof-app.git
    ```
 2. **Open in Android Studio**: 
    Open the project in Android Studio.
