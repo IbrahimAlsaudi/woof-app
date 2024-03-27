@@ -17,8 +17,7 @@ Woof is a delightful mobile application designed to bring joy to dog lovers by s
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img src="screenshots/Screenshot_20240327_201824.png" width=500 height=1000>
 
 ## Getting Started
 
